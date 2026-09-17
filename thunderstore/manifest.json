@@ -1,0 +1,10 @@
+{
+  "name": "BigWalkVRExtras",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Blowntobytes/BigWalkVRExtras",
+  "description": "Auto Sprint, Grip Toggle and Virtual Crouch options in the Big Walk VR settings, plus right stick click to sit/stand.",
+  "dependencies": [
+    "BepInEx-BepInExPack_IL2CPP-6.0.755",
+    "CircuitLord-Big_Walk_VR-1.0.18"
+  ]
+}
