@@ -6,7 +6,7 @@ Small add-on for CircuitLord's **Big Walk VR**. Requires the Big Walk VR mod (it
 - **AUTO SPRINT** row in *Settings > Big Walk VR* (main menu and pause menu). When ON you sprint whenever the left joystick is pushed - no more clicking the left stick.
 - **GRIP MODE** row (HOLD / TOGGLE). With TOGGLE you press grip once to grab an item and it stays in your hand; squeeze grip again and the item drops when you let go of the button (swing and let go to throw). Handing an item to your other hand works as before.
 - **VIRTUAL CROUCH** row (OFF / HOLD / TOGGLE). HOLD: pull the right joystick back towards you to crouch, let go to stand up. TOGGLE: one pull crouches, the next pull (or a jump) stands you up. Your view is lowered while virtually crouched. Crouching for real still works too.
-- **Right joystick click = sit / stand.** Toggles the sitting pose with a short haptic pulse. Physically crouching still sits you as before. (This replaces the VR mod's "recalibrate height" on right-stick click.)
+- **Right joystick click = sit / stand.** Toggles the sitting pose with a short haptic pulse. Physically crouching still sits you as before. (This replaces the VR mod's "recalibrate height" on right-stick click. To recenter, use the built in method for your VR headset.)
 
 ## Install
 **Mod manager (recommended):** install with r2modman / Thunderstore Mod Manager like any other Big Walk mod, then launch with *Start modded*.
